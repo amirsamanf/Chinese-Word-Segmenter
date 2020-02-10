@@ -1,4 +1,4 @@
-# ensegment
+# zhsegment
 Chinese Word Segmentation
 
 The iterative segmenter is able to achieve an F-score of 0.87 on the dev set. It is able to do so by taking advantage of some basic data structures and an approach based on the provided pseudo code.
